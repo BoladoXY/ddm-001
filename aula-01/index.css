@@ -1,0 +1,15 @@
+body {
+    background-color: lemonchiffon; /* Cor de fundo */
+}
+
+.box {
+    width: 100px; /* Largura */
+    height: 100px; /* Altura */
+    border: 3px solid #3270cc; /* Espessura, estilo, cor da borda */
+}
+
+.row {
+    display: flex; /* Habilita os recursos flex */
+    flex-direction: row; /* Transforma elementos em uma linha (horizontal) */
+    gap: 30px;
+}
